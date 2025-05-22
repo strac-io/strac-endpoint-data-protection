@@ -1,6 +1,6 @@
-# Auditor
+# Strac Endpoint Data Protection
 
-`auditor` is plugin-based, cross-platform service application designed to audit and process sensitive files and actions on customer managed workstations. The application is customizable via the addition of managers, processors, and detectors. Its modular architecture allows for the seamless integration of new functionalities, making it adaptable to a wide range of use cases in file analysis and security auditing.
+`Strac Endpoint Data Protection` is plugin-based, cross-platform service application designed to audit and process sensitive files and actions on customer managed workstations. The application is customizable via the addition of managers, processors, and detectors. Its modular architecture allows for the seamless integration of new functionalities, making it adaptable to a wide range of use cases in file analysis and security auditing.
 
 > [!IMPORTANT]  
 > As of 2025-05-22, the Strac Endpoint Agent repository has been made public. 
